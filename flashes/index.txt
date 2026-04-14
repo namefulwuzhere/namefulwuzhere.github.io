@@ -1,2 +1,3 @@
 <h1>FLASHES</h1>
-<a href="./thisland/index.html">
+<a href="../index.html"> <- </a>
+<a href="./thisland/index.html">"This Land" by JibJab</a>
